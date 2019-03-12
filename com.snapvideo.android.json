@@ -1,0 +1,10 @@
+{
+  "latestVersion": "5.1.1",
+  "latestVersionCode": "511",
+  "url": "samsungapps://ProductDetail/com.snapvideo.android",
+  "releaseNotes": [
+    "- Added support for Facebook video download",
+    "- Update popup",
+    "- Bug fixes"
+  ]
+}
